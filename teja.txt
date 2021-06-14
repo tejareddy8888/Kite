@@ -1,0 +1,2 @@
+  pubkey: kitepub1addwnpepqd9j24th4tp9pyk8dxkt26rssfv2cfuquw32a74hhd6qulye0x4t7pd330v
+  pubkey: kitepub1addwnpepqge8ug8n334hjkls4cyn7qu5y5lcvvlz0jw8mpcwcmelg8fp2jjy2d6r33m
